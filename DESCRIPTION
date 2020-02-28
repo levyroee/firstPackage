@@ -3,9 +3,7 @@ Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: person(given = "Roee", family = "Levy", role = c("aut", "cre"), email = "roee.levy@yale.edu")
 Description: What the package does (one paragraph).
-Imports:
-  rgdal,
-  sp
+Imports: rgdal, sp
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
