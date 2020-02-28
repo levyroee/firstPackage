@@ -2,10 +2,6 @@ Package: firstPackage
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: person(given = "Roee", family = "Levy", role = c("aut", "cre"), email = "roee.levy@yale.edu")
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com")
 Description: What the package does (one paragraph).
 Imports:
   rgdal,
